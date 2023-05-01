@@ -1,0 +1,4 @@
+[mod]
+title: Zdrowy mod
+description: JAJO PIZZA ZOMBI I HERBATA zblizaja sie ku ostatecznemu starciu!!!
+thumbnail: mod-thumbnail-cropped.png
